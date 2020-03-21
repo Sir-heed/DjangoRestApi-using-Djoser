@@ -1,0 +1,6 @@
+To rn the project install the packages in requirements.txt
+
+The project made use of an Abstract User model which should be set before any migration is being made in the settings.py
+AUTH_USER_MODEL
+
+The project actually involves using the djoser framework for authentication.
